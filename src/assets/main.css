@@ -1,0 +1,16 @@
+@import './base.css';
+
+body {
+  min-width: fit-content;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  text-align: start;
+}
